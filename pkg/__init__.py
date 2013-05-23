@@ -3,7 +3,7 @@
     Pkg
     ~~~
 
-    Simple template python pkg for my own pleasure.
+    Simple Python pkg template for my own pleasure.
 
     :copyright: (c) 2013 Simon Zimmermann
     :license: MIT, see LICENSE for details.
